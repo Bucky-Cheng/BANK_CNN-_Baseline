@@ -1,0 +1,10 @@
+# BANK_CNN-_Baseline
+
+
+BANK_1.ipynb only splited data. then put the data into CNN model.
+
+baseline_cnn_kfold.ipynb has DATA AGGREGATE, FEATURES ENGINEERRING, SPLIT DATA operations, and put it into the CNN model.
+
+ALL used kfold(StratifiedKFold).
+
+Enviroment: macOS Catalina 10.15.4, python 3.7, sklearn, Tensorflow 2.0
